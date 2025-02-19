@@ -1,1 +1,3 @@
+
+this is new file b.txt from update
 this is new file from b.txt
