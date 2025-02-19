@@ -1,3 +1,0 @@
-
-this is test file 1 from a.txt
-this is test file 2 from a.txt
